@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Lesley 👋
 
-<!--
-**leslie-v1/leslie-v1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | 🌍 Tech Enthusiast | 📊 Data Explorer  
 
-Here are some ideas to get you started:
+I'm passionate about building **lean backend systems** and **real-world tech solutions** that drive efficiency, automation, and impact. Currently interning at **Atmos Technology Solutions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack & Skills
+- **Languages:** Python, JavaScript, SQL  
+- **Backend:** Node.js, Express  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools:** Git, Docker, Linux (troubleshooting wizard 🧙‍♂️)  
+
+---
+
+## 🌱 Current Focus
+- Backend system design 
+
+---
+
+## ✨ Fun Facts
+- I thrive on **collaborative brainstorming** and co-creation of impactful tech solutions  
+- Streetwear + tech = my creative vibe 🕶️👟  
+- I enjoy blending **authentic communication** with professional growth  
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/leslie-gbadegbe)  
+ 
+
+---
+
+⭐️ If you like my work, consider following me or checking out my repositories!
