@@ -21,7 +21,7 @@ I'm passionate about building **lean backend systems** and **real-world tech sol
 
 ## ✨ Fun Facts
 - I thrive on **collaborative brainstorming** and co-creation of impactful tech solutions  
-- Streetwear + tech = my creative vibe 🕶️👟  
+- Anime +Introvert + tech = my creative vibe 🕶️  
 - I enjoy blending **authentic communication** with professional growth  
 
 ---
