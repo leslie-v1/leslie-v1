@@ -1,6 +1,6 @@
 # Hi there, I'm Lesley 👋
 
-🚀 Backend Developer | 🌍 Tech Enthusiast | 📊 Data Explorer  
+🚀 Fullstack Developer | 🌍 Tech Enthusiast | 📊 Data Explorer  
 
 I'm passionate about building **lean backend systems** and **real-world tech solutions** that drive efficiency, automation, and impact. Currently interning at **Atmos Technology Solutions**
 
@@ -8,14 +8,15 @@ I'm passionate about building **lean backend systems** and **real-world tech sol
 
 ## 🔧 Tech Stack & Skills
 - **Languages:** Python, JavaScript, SQL  
-- **Backend:** Node.js, Express  
+- **Backend:** Node.js, Express
+- **Frontend:** vue.js
 - **Databases:** PostgreSQL, MySQL  
 - **Tools:** Git, Docker, Linux (troubleshooting wizard 🧙‍♂️)  
 
 ---
 
 ## 🌱 Current Focus
-- Backend system design 
+- system design 
 
 ---
 
