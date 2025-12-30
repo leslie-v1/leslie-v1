@@ -1,6 +1,6 @@
 # Hi there, I'm Lesley 👋
 
-🚀 Fullstack Developer | 🌍 Tech Enthusiast | 📊 Data Explorer  
+🚀 Backend Developer | 🌍 Tech Enthusiast | 📊 Data Explorer  
 
 I'm passionate about building **lean backend systems** and **real-world tech solutions** that drive efficiency, automation, and impact. Currently interning at **Atmos Technology Solutions**
 
