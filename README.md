@@ -9,8 +9,8 @@ I'm passionate about building **lean backend systems** and **real-world tech sol
 ## 🔧 Tech Stack & Skills
 - **Languages:** Python, JavaScript, SQL  
 - **Backend:** Node.js, Express
-- **Frontend:** vue.js
-- **Databases:** PostgreSQL, MySQL  
+- **Frontend:** react
+- **Databases:** PostgreSQL, MySQL,mongoDB
 - **Tools:** Git, Docker, Linux (troubleshooting wizard 🧙‍♂️)  
 
 ---
